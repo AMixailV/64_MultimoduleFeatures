@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Feature_Modules.app" target="17" />
+      <module name="Feature_Modules.core.common-impl" target="17" />
+      <module name="Feature_Modules.core.presentation" target="17" />
+      <module name="Feature_Modules.core.theme" target="17" />
+      <module name="Feature_Modules.data" target="17" />
+      <module name="Feature_Modules.features.cart" target="17" />
+      <module name="Feature_Modules.features.catalog" target="17" />
+      <module name="Feature_Modules.features.orders" target="17" />
+      <module name="Feature_Modules.features.profile" target="17" />
+      <module name="Feature_Modules.features.sign-in" target="17" />
+      <module name="Feature_Modules.features.sign-up" target="17" />
+      <module name="Feature_Modules.navigation" target="17" />
+      <module name="Feature_Modules.wiring" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
